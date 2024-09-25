@@ -1,0 +1,30 @@
+body{
+    background-color:black;
+}
+h1{
+    color:purple;
+    text-shadow:3px 3px yellow;
+    text-align:center;
+    animation-name: h1;
+    animation-duration:10s;
+}
+@keyframes h1{
+    from{color:black;}
+    to{color:purple;}
+}
+
+p{
+    color:purple;
+    text-shadow:1px 1px yellow;
+    
+}
+h2{
+    color:Orange;
+    text-shadow:1px 1px yellow;
+}
+table{
+    color:purple;
+    text-shadow:0px 0px yellow;
+    border:solid;
+    border-color:Purple;
+}

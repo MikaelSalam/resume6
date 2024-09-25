@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Resume</title>
+</head>
+<body>
+<h1 style="font-size:50px;">Micheal Salam Resume</h1>
+<p style="font-size:25px;">Student at University Of Belize </p>
+<p style="font-size:25px;">Address:St john Street ,Belmopan</P>
+<p style="font-size:25px;">Courses : 5 </p>
+<p><a href ="https://www.ubelearn.com/">Visit UB.com!</a></p>
+
+<style>
+table, th, td { 
+  border:1px solid black;
+}
+</style>
+<body>
+<h2>A basic HTML table</h2>
+<table style="width:100%">
+  <tr>
+    <th style="font-size:30px;">Monday</th>
+    <th style="font-size:30px;">Tuesday</th>
+    <th style="font-size:30px;">Wednesday</th>
+	<th style="font-size:30px;">Thursday</th>
+  </tr>
+  <tr>
+  <td>Critical Thinking</td>
+    <td>Fundamental Of Computing</td>
+    <td>Critical Thinking</td>
+	<td>Fundamental Of Computing</td>
+  </tr>
+  <tr>
+    <td>Programming 1</td>
+    <td>Pyschology</td>
+    <td>programming 1</td>
+	<td>Pyschology</td>
+	 </tr>
+   <tr>
+    <td>Developmental Math</td>
+  </tr>
+</table>
